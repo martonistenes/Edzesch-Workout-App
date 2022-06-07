@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Edzesch</string>
+    <string name="activities">Activities</string>
+    <string name="statistics">Statistics</string>
+    <string name="new_training">New Training</string>
+    <string name="okButton">OK</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="type">Type</string>
+    <string name="distance">Distance</string>
+    <string name="length">Length</string>
+    <string name="location">Location</string>
+    <string name="description">Description</string>
+    <string name="select_sport">Select Sport</string>
+
+    <string-array name="type_items">
+        <item>Kayaking</item>
+        <item>Running</item>
+        <item>Swimming</item>
+        <item>Lifting</item>
+        <item>Cycling</item>
+        <item>Else</item>
+    </string-array>
+</resources>
